@@ -1,4 +1,10 @@
-## Hi there 👋
+## RaidSquare
+
+#### Due Diligence, Research & Development, Marketing, AML compliance, our team and our partners provide a 360° service to the FinTechs and investment professionals.
+
+
+
+
 
 <!--
 
