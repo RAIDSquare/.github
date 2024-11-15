@@ -1,6 +1,8 @@
-## RaidSquare
+## RAID Square
 
-#### Due Diligence, Research & Development, Marketing, AML compliance, our team and our partners provide a 360° service to the FinTechs and investment professionals.
+#### Specializing in blockchain investigations, OSINT, and HUMINT for private clients and law enforcement agencies and cybersecurity, with a focus on risk mitigation.
+
+#### Our company spearheaded the creation of the "League for Security within the WEB3" in France, a collaborative initiative co-founded with industry leaders including Vivendi, Binance, Morpho Labs, Kramer Levin, and the Cyber Command of the French Gendarmerie.
 
 
 
